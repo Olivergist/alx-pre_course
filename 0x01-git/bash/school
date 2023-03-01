@@ -1,1 +1,5 @@
-echo School is open
+<<<<<<< HEAD
+echo School
+=======
+echo The school is open!
+>>>>>>> 123c7ab73fce97461363ad413acb8de0c0522876
